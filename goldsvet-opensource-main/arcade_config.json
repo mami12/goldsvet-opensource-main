@@ -1,0 +1,9 @@
+{
+"port":"22188/arcade",
+"host":"127.0.0.1:8000",
+"prefix":"http://",
+"host_ws":"127.0.0.1",
+"prefix_ws":"ws://",
+"ssl":false,
+"timezone":"Europe/Berlin"
+}
